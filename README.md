@@ -6,4 +6,4 @@ While working my way through Try Hack Me labs and learning path starting with th
 
 <h3>Chapter and Labs</h3>
 
-  - Security Information and Event Management
+  - <a href="https://github.com/securedbyjames/TryHackMe/blob/main/Security%20Info%20and%20Event%20Management.md">Security Information and Event Management</a>

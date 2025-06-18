@@ -6,4 +6,4 @@ While working my way through Try Hack Me's learning paths and labs, here is wher
 
 <h3>Chapters and Labs</h3>
 
-- <a href="SOC Level 1 Learning Path.md">SOC Level 1 Learning Path">SOC Level 1 Learning Path</a>
+- <a href="https://github.com/securedbyjames/TryHackMe/blob/main/SOC%20Level%201%20Learning%20Path.md">SOC Level 1 Learning Path">SOC Level 1 Learning Path</a>

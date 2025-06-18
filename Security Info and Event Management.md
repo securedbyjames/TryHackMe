@@ -1,4 +1,6 @@
-<h1>Security Information and Event Management</h1>
+<h1>SOC Level 1 Learning Path</h1>
+
+<h2>Security Info and Event Management</h2>
 
 <b>June 17, 2025</b>
 

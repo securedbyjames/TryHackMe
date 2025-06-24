@@ -1,5 +1,31 @@
 <h1>Benign Challenge Lab (Splunk)</h1>
 
+<h2>Description</h2>
+
+One of the client’s IDS indicated a potentially suspicious process execution indicating one of the hosts from the HR department was compromised. Some tools related to network information gathering / scheduled tasks were executed which confirmed the suspicion. Due to limited resources, we could only pull the process execution logs with Event ID: 4688 and ingested them into Splunk with the index win_eventlogs for further investigation.
+
+<h3>About the Network Information</h3>
+
+The network is divided into three logical segments. It will help in the investigation.
+
+<b>IT Department</b>
+
+James<br>
+Moin<br>
+Katrina<br>
+
+<b>HR department</b>
+
+Haroon<br>
+Chris<br>
+Diana<br>
+
+<b>Marketing department</b>
+
+Bell<br>
+Amelia<br>
+Deepak<br>
+
 <h2>Walkthrough</h2>
 
 <b>Question 1: How many logs are ingested from the month of March, 2022?</b>
